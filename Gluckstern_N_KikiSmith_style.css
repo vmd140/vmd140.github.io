@@ -1,0 +1,56 @@
+header {
+    background-color: #cecfbd;
+}
+
+main {
+    background-color: #deb685;
+    padding: 10px;
+}
+
+h2 {
+    font-family: "optima bold";
+    font-size: 20px;
+    text-shadow: 3px 3px 3px #ccc;
+    letter-spacing: 2px;
+    color: #517596;
+}
+
+h3 {
+    font-family: "optima bold";
+    font-size: 18px;
+    text-shadow: 2px 2px 2px #ccc;
+    letter-spacing: 1px;
+    color: #517595; 
+}
+
+p {
+    font-family: "gill sans";
+    font-size: 14px;    
+}
+
+
+li{
+    font-family: "gill sans";
+    font-size: 14px;
+    text-indent: 10px;
+}
+
+figcaption {
+    font-family: "gill sans";
+    font-size: 14px;
+    text-indent: 10px;
+}
+
+form{
+    font-family: "gill sans";
+    font-size: 14px;
+    font-weight: 100
+    color: #423b38
+}
+
+footer {
+    font-family: "gill sans";
+    font-size: 12px;
+    font-weight: 100;
+    color: #423b38;
+}
