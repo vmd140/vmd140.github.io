@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+  overflow: scroll;   
+}
+
+body {
+    background-color: #423b38;
+}
+
+.content { 
+    font-family: "Avenir", sans-serif;
+    background-color: white;
+    width: 50%;
+    margin: 30px;
+    padding: 30px;
+    border: 10px inset #166466;
+    float: left;
+}    
+
+header {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    text-align: center;
+}
+
+.image {
+    float: right;
+    width: 25%;
+    overflow: scroll;
+    margin: 30px;
+    border: 10px outset #166466;
+}
