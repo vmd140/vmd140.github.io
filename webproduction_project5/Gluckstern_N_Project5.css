@@ -1,0 +1,106 @@
+
+#container {
+    width: 1200px;
+    padding: 2px;
+    margin: auto;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    background-image: url(book1200x800edit.jpg);
+    background-repeat: no-repeat;
+}
+
+main {
+    font-family: "Courier";
+    color: #0f0f32  
+}
+
+.navbar {
+    text-align: center;
+    padding: 2px;
+    margin: 0px 100px;
+    border-radius: 8px;
+    background-color: #d7926a;
+}
+
+a {
+    color: #0f0f32;
+}
+
+a:hover {
+    color: #f1f1f1;
+}
+
+form {
+    clear:both;
+    text-align: center;
+    padding: 2px;
+}
+
+.section1 {
+    text-align:left;
+    font-size: 30px;
+    font-style: bold;
+    width: 400px;
+    height: 100%;
+    padding: 50px 0px 50px 250px;
+    margin: 0px 0px 80px 0px;
+    float:left;
+}
+
+.section3 {
+    text-align:left;
+    font-size: 30px;
+    font-style: bold;
+    width: 400px;
+    height: 100%;
+    padding: 50px 0px 60px 250px;
+    float:left;
+}
+
+.image {
+      border: 2px solid #512b1d;
+      object-fit: fill;
+      overflow: hidden;
+      width: 300px;
+      height: 405px;
+      margin: 20px;
+      align-content: right;
+}
+
+p {
+    font-size: 14px;
+    font-family: "Palatino";
+    text-align: left;
+    line-height: 1.5;
+    border: 2px solid #512b1d;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.section2 {
+    width: 400px;
+    padding: 50px 150px 50px 0px;
+     margin: 0px 0px 80px 0px;
+    float: right;
+}
+
+.section4 {
+    width: 400px;
+    padding: 50px 150px 88px 0px;
+    float: right;
+}
+
+.copyright {
+    clear:both;
+    float: left;
+    margin: 10px;
+}
+
+.button {
+    background-color: #d7926a;
+    border-radius: 8px;
+    padding: 2px;
+    float:right;
+    margin: 10px; 
+}
